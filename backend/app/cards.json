@@ -1,0 +1,1857 @@
+[
+{
+  "id": "major_00",
+  "arcana": "major",
+  "number": 0,
+  "image": "/static/cards/Major_00_Fool.jpg",
+  "translations": {
+    "ru": {
+      "name": "Шут",
+      "keywords": ["начало", "риск", "спонтанность"],
+      "text": "Новый старт. Главное — не путать смелость с тупым прыжком в никуда."
+    },
+    "en": {
+      "name": "The Fool",
+      "keywords": ["beginning", "risk", "spontaneity"],
+      "text": "A new start. Just don’t confuse courage with a dumb leap into the void."
+    },
+    "de": {
+      "name": "Der Narr",
+      "keywords": ["Anfang", "Risiko", "Spontaneität"],
+      "text": "Ein neuer Anfang. Verwechsle Mut nur nicht mit einem dummen Sprung ins Nichts."
+    }
+  }
+},
+{
+  "id": "major_01",
+  "arcana": "major",
+  "number": 1,
+  "image": "/static/cards/Major_01_Magician.jpg",
+  "translations": {
+    "ru": {
+      "name": "Маг",
+      "keywords": ["инициатива", "ресурсы", "влияние"],
+      "text": "Инструменты у тебя уже есть. Вопрос в том, работаешь ты ими или просто красиво раскладываешь по столу."
+    },
+    "en": {
+      "name": "The Magician",
+      "keywords": ["initiative", "resources", "influence"],
+      "text": "You already have the tools. The question is whether you use them or just arrange them nicely on the table."
+    },
+    "de": {
+      "name": "Der Magier",
+      "keywords": ["Initiative", "Ressourcen", "Einfluss"],
+      "text": "Du hast die Werkzeuge schon. Die Frage ist nur, ob du sie benutzt oder nur dekorativ auf dem Tisch verteilst."
+    }
+  }
+},
+{
+  "id": "major_02",
+  "arcana": "major",
+  "number": 2,
+  "image": "/static/cards/Major_02_High_Priestess.jpg",
+  "translations": {
+    "ru": {
+      "name": "Верховная Жрица",
+      "keywords": ["интуиция", "тайна", "внутреннее знание"],
+      "text": "Не всё надо тащить на свет и немедленно решать. Иногда полезно сначала заткнуться и послушать себя."
+    },
+    "en": {
+      "name": "The High Priestess",
+      "keywords": ["intuition", "mystery", "inner knowing"],
+      "text": "Not everything has to be dragged into the light and solved immediately. Sometimes it helps to shut up and listen to yourself first."
+    },
+    "de": {
+      "name": "Die Hohepriesterin",
+      "keywords": ["Intuition", "Geheimnis", "inneres Wissen"],
+      "text": "Nicht alles muss sofort ans Licht gezerrt und gelöst werden. Manchmal hilft es, erst mal still zu sein und in sich hineinzuhören."
+    }
+  }
+},
+{
+  "id": "major_03",
+  "arcana": "major",
+  "number": 3,
+  "image": "/static/cards/Major_03_Empress.jpg",
+  "translations": {
+    "ru": {
+      "name": "Императрица",
+      "keywords": ["рост", "забота", "изобилие"],
+      "text": "Хочешь результата — корми то, что выращиваешь. Отношения, проект, тело — логика одна и та же."
+    },
+    "en": {
+      "name": "The Empress",
+      "keywords": ["growth", "care", "abundance"],
+      "text": "If you want results, feed what you are growing. Relationships, a project, your body — same logic."
+    },
+    "de": {
+      "name": "Die Herrscherin",
+      "keywords": ["Wachstum", "Fürsorge", "Fülle"],
+      "text": "Wenn du ein Ergebnis willst, nähre das, was du wachsen lässt. Beziehung, Projekt, Körper — dieselbe Logik."
+    }
+  }
+},
+{
+  "id": "major_04",
+  "arcana": "major",
+  "number": 4,
+  "image": "/static/cards/Major_04_Emperor.jpg",
+  "translations": {
+    "ru": {
+      "name": "Император",
+      "keywords": ["порядок", "структура", "контроль"],
+      "text": "Хаос романтичен только первые пять минут. Потом всё равно нужен план, рамки и нормальная ответственность."
+    },
+    "en": {
+      "name": "The Emperor",
+      "keywords": ["order", "structure", "control"],
+      "text": "Chaos is romantic only for the first five minutes. After that you still need a plan, boundaries, and actual responsibility."
+    },
+    "de": {
+      "name": "Der Herrscher",
+      "keywords": ["Ordnung", "Struktur", "Kontrolle"],
+      "text": "Chaos ist nur die ersten fünf Minuten romantisch. Danach brauchst du trotzdem einen Plan, klare Grenzen und echte Verantwortung."
+    }
+  }
+},
+{
+  "id": "major_05",
+  "arcana": "major",
+  "number": 5,
+  "image": "/static/cards/Major_05_Hierophant.jpg",
+  "translations": {
+    "ru": {
+      "name": "Иерофант",
+      "keywords": ["традиция", "обучение", "система"],
+      "text": "Иногда не надо изобретать велосипед. Есть вещи, которые уже придумали до тебя, и это не оскорбление твоей уникальности."
+    },
+    "en": {
+      "name": "The Hierophant",
+      "keywords": ["tradition", "learning", "system"],
+      "text": "Sometimes you don’t need to reinvent the wheel. Some things were figured out before you, and that is not an insult to your uniqueness."
+    },
+    "de": {
+      "name": "Der Hierophant",
+      "keywords": ["Tradition", "Lernen", "System"],
+      "text": "Manchmal musst du das Rad nicht neu erfinden. Manche Dinge wurden schon vor dir verstanden, und das beleidigt deine Einzigartigkeit nicht."
+    }
+  }
+},
+{
+  "id": "major_06",
+  "arcana": "major",
+  "number": 6,
+  "image": "/static/cards/Major_06_Lovers.jpg",
+  "translations": {
+    "ru": {
+      "name": "Влюблённые",
+      "keywords": ["выбор", "союз", "ценности"],
+      "text": "Тут вопрос не только в любви, а в выборе. И да, иногда надо решить, что тебе важнее, а не ждать, пока всё само сложится."
+    },
+    "en": {
+      "name": "The Lovers",
+      "keywords": ["choice", "union", "values"],
+      "text": "This is not just about love, but about choice. And yes, sometimes you have to decide what matters more instead of waiting for it to sort itself out."
+    },
+    "de": {
+      "name": "Die Liebenden",
+      "keywords": ["Wahl", "Verbindung", "Werte"],
+      "text": "Hier geht es nicht nur um Liebe, sondern um eine Wahl. Und ja, manchmal musst du entscheiden, was dir wichtiger ist, statt auf Wunder zu warten."
+    }
+  }
+},
+{
+  "id": "major_07",
+  "arcana": "major",
+  "number": 7,
+  "image": "/static/cards/Major_07_Chariot.jpg",
+  "translations": {
+    "ru": {
+      "name": "Колесница",
+      "keywords": ["движение", "воля", "прорыв"],
+      "text": "Нужен не идеальный настрой, а управление. Если хочешь ехать вперёд, придётся держать поводья, а не ныть про обстоятельства."
+    },
+    "en": {
+      "name": "The Chariot",
+      "keywords": ["movement", "willpower", "breakthrough"],
+      "text": "You do not need a perfect mood, you need control. If you want to move forward, hold the reins instead of whining about circumstances."
+    },
+    "de": {
+      "name": "Der Wagen",
+      "keywords": ["Bewegung", "Willenskraft", "Durchbruch"],
+      "text": "Du brauchst keine perfekte Stimmung, sondern Kontrolle. Wenn du vorankommen willst, musst du die Zügel halten statt über Umstände zu jammern."
+    }
+  }
+},
+{
+  "id": "major_08",
+  "arcana": "major",
+  "number": 8,
+  "image": "/static/cards/Major_08_Strength.jpg",
+  "translations": {
+    "ru": {
+      "name": "Сила",
+      "keywords": ["спокойная мощь", "терпение", "самоконтроль"],
+      "text": "Сила — это не обязательно ломать через колено. Иногда это как раз умение держать себя в руках, когда очень хочется сорваться."
+    },
+    "en": {
+      "name": "Strength",
+      "keywords": ["calm power", "patience", "self-control"],
+      "text": "Strength is not always about forcing things. Sometimes it is exactly the ability to keep yourself together when you badly want to snap."
+    },
+    "de": {
+      "name": "Die Kraft",
+      "keywords": ["ruhige Stärke", "Geduld", "Selbstkontrolle"],
+      "text": "Stärke bedeutet nicht immer, etwas mit Gewalt durchzudrücken. Manchmal ist es genau die Fähigkeit, sich zu beherrschen, wenn man am liebsten ausrasten würde."
+    }
+  }
+},
+{
+  "id": "major_09",
+  "arcana": "major",
+  "number": 9,
+  "image": "/static/cards/Major_09_Hermit.jpg",
+  "translations": {
+    "ru": {
+      "name": "Отшельник",
+      "keywords": ["пауза", "самоанализ", "поиск смысла"],
+      "text": "Отойди на шаг и подумай. Не каждая проблема решается суетой, шумом и советами трёх случайных умников."
+    },
+    "en": {
+      "name": "The Hermit",
+      "keywords": ["pause", "self-reflection", "search for meaning"],
+      "text": "Step back and think. Not every problem is solved by noise, rush, and advice from three random smartasses."
+    },
+    "de": {
+      "name": "Der Eremit",
+      "keywords": ["Pause", "Selbstreflexion", "Sinnsuche"],
+      "text": "Tritt einen Schritt zurück und denk nach. Nicht jedes Problem wird durch Hektik, Lärm und die Ratschläge von drei zufälligen Besserwissern gelöst."
+    }
+  }
+},
+{
+  "id": "major_10",
+  "arcana": "major",
+  "number": 10,
+  "image": "/static/cards/Major_10_Wheel_of_Fortune.jpg",
+  "translations": {
+    "ru": {
+      "name": "Колесо Фортуны",
+      "keywords": ["цикл", "перемены", "поворот"],
+      "text": "Колесо крутится. Сегодня вверх, завтра вниз, потом снова вверх. Не строй вечных выводов из временной удачи или временного пиздеца."
+    },
+    "en": {
+      "name": "Wheel of Fortune",
+      "keywords": ["cycle", "change", "turning point"],
+      "text": "The wheel turns. Up today, down tomorrow, then up again. Don’t make eternal conclusions from temporary luck or temporary disaster."
+    },
+    "de": {
+      "name": "Das Rad des Schicksals",
+      "keywords": ["Zyklus", "Veränderung", "Wendepunkt"],
+      "text": "Das Rad dreht sich. Heute oben, morgen unten, dann wieder oben. Zieh keine ewigen Schlüsse aus vorübergehendem Glück oder vorübergehendem Chaos."
+    }
+  }
+},
+{
+  "id": "major_11",
+  "arcana": "major",
+  "number": 11,
+  "image": "/static/cards/Major_11_Justice.jpg",
+  "translations": {
+    "ru": {
+      "name": "Справедливость",
+      "keywords": ["баланс", "последствия", "честность"],
+      "text": "У действий есть последствия. Нравится тебе это или нет, но мир не обязан подстраиваться под твою красивую внутреннюю драму."
+    },
+    "en": {
+      "name": "Justice",
+      "keywords": ["balance", "consequences", "honesty"],
+      "text": "Actions have consequences. Like it or not, the world does not have to adjust to your beautifully dramatic inner story."
+    },
+    "de": {
+      "name": "Die Gerechtigkeit",
+      "keywords": ["Balance", "Folgen", "Ehrlichkeit"],
+      "text": "Handlungen haben Folgen. Ob es dir gefällt oder nicht — die Welt muss sich nicht deiner schön dramatischen inneren Geschichte anpassen."
+    }
+  }
+},
+{
+  "id": "major_12",
+  "arcana": "major",
+  "number": 12,
+  "image": "/static/cards/Major_12_Hanged_Man.jpg",
+  "translations": {
+    "ru": {
+      "name": "Повешенный",
+      "keywords": ["пауза", "новый взгляд", "задержка"],
+      "text": "Завис — не всегда значит проиграл. Иногда жизнь просто заставляет посмотреть на всё с неудобного, но полезного ракурса."
+    },
+    "en": {
+      "name": "The Hanged Man",
+      "keywords": ["pause", "new perspective", "delay"],
+      "text": "Being stuck does not always mean losing. Sometimes life just forces you to look at things from an awkward but useful angle."
+    },
+    "de": {
+      "name": "Der Gehängte",
+      "keywords": ["Pause", "neue Perspektive", "Verzögerung"],
+      "text": "Festzustecken heißt nicht immer zu verlieren. Manchmal zwingt dich das Leben nur dazu, die Dinge aus einem unbequemen, aber nützlichen Blickwinkel zu sehen."
+    }
+  }
+},
+{
+  "id": "major_13",
+  "arcana": "major",
+  "number": 13,
+  "image": "/static/cards/Major_13_Death.jpg",
+  "translations": {
+    "ru": {
+      "name": "Смерть",
+      "keywords": ["завершение", "трансформация", "обновление"],
+      "text": "Это не обязательно про буквальную смерть, расслабься. Обычно это про конец этапа, который ты уже сам давно тащил как мёртвую лошадь."
+    },
+    "en": {
+      "name": "Death",
+      "keywords": ["ending", "transformation", "renewal"],
+      "text": "This is not necessarily about literal death, relax. Usually it is about the end of a phase you have been dragging around like a dead horse anyway."
+    },
+    "de": {
+      "name": "Der Tod",
+      "keywords": ["Ende", "Transformation", "Erneuerung"],
+      "text": "Das ist nicht unbedingt wörtlich gemeint, also entspann dich. Meistens geht es um das Ende einer Phase, die du sowieso schon wie ein totes Pferd mitgeschleppt hast."
+    }
+  }
+},
+{
+  "id": "major_14",
+  "arcana": "major",
+  "number": 14,
+  "image": "/static/cards/Major_14_Temperance.jpg",
+  "translations": {
+    "ru": {
+      "name": "Умеренность",
+      "keywords": ["баланс", "мера", "сочетание"],
+      "text": "Не всё решается крайностями. Иногда победа — это не разъебать всё рывком, а спокойно и стабильно собрать рабочую смесь."
+    },
+    "en": {
+      "name": "Temperance",
+      "keywords": ["balance", "moderation", "blending"],
+      "text": "Not everything is solved by extremes. Sometimes the win is not blowing things up in one push, but calmly building a stable working mix."
+    },
+    "de": {
+      "name": "Die Mäßigkeit",
+      "keywords": ["Balance", "Maß", "Verbindung"],
+      "text": "Nicht alles wird durch Extreme gelöst. Manchmal ist der Sieg nicht der große Knall, sondern ein ruhiger und stabiler funktionierender Mix."
+    }
+  }
+},
+{
+  "id": "major_15",
+  "arcana": "major",
+  "number": 15,
+  "image": "/static/cards/Major_15_Devil.jpg",
+  "translations": {
+    "ru": {
+      "name": "Дьявол",
+      "keywords": ["зависимость", "искушение", "привязка"],
+      "text": "Тут обычно не про демонов из ада, а про вещи, на которые ты сам радостно сел и теперь делаешь вид, что не можешь слезть."
+    },
+    "en": {
+      "name": "The Devil",
+      "keywords": ["addiction", "temptation", "attachment"],
+      "text": "This is usually not about demons from hell, but about things you willingly climbed onto and now pretend you cannot get off."
+    },
+    "de": {
+      "name": "Der Teufel",
+      "keywords": ["Abhängigkeit", "Versuchung", "Bindung"],
+      "text": "Hier geht es meist nicht um Dämonen aus der Hölle, sondern um Dinge, auf die du dich selbst gesetzt hast und jetzt so tust, als könntest du nicht mehr runter."
+    }
+  }
+},
+{
+  "id": "major_16",
+  "arcana": "major",
+  "number": 16,
+  "image": "/static/cards/Major_16_Tower.jpg",
+  "translations": {
+    "ru": {
+      "name": "Башня",
+      "keywords": ["слом", "кризис", "правда"],
+      "text": "Что-то треснет. Скорее всего — не мир, а твои иллюзии. Неприятно, но полезно."
+    },
+    "en": {
+      "name": "The Tower",
+      "keywords": ["collapse", "crisis", "truth"],
+      "text": "Something is going to crack. Most likely not the world, but your illusions. Unpleasant, but useful."
+    },
+    "de": {
+      "name": "Der Turm",
+      "keywords": ["Zusammenbruch", "Krise", "Wahrheit"],
+      "text": "Etwas wird brechen. Wahrscheinlich nicht die Welt, sondern deine Illusionen. Unangenehm, aber nützlich."
+    }
+  }
+},
+{
+  "id": "major_17",
+  "arcana": "major",
+  "number": 17,
+  "image": "/static/cards/Major_17_Star.jpg",
+  "translations": {
+    "ru": {
+      "name": "Звезда",
+      "keywords": ["надежда", "вдохновение", "восстановление"],
+      "text": "После жопы иногда реально бывает свет. Не эйфория, а тихое чувство, что дальше всё ещё есть смысл идти."
+    },
+    "en": {
+      "name": "The Star",
+      "keywords": ["hope", "inspiration", "healing"],
+      "text": "After hell, light can actually happen. Not euphoria, but the quiet sense that it still makes sense to keep going."
+    },
+    "de": {
+      "name": "Der Stern",
+      "keywords": ["Hoffnung", "Inspiration", "Heilung"],
+      "text": "Nach dem Chaos kann tatsächlich wieder Licht kommen. Keine Euphorie, sondern das stille Gefühl, dass es sich lohnt weiterzugehen."
+    }
+  }
+},
+{
+  "id": "major_18",
+  "arcana": "major",
+  "number": 18,
+  "image": "/static/cards/Major_18_Moon.jpg",
+  "translations": {
+    "ru": {
+      "name": "Луна",
+      "keywords": ["неясность", "страх", "иллюзии"],
+      "text": "Сейчас не лучший момент для уверенных выводов. Ты видишь не всю картину, а мозг уже радостно дорисовывает хоррор."
+    },
+    "en": {
+      "name": "The Moon",
+      "keywords": ["uncertainty", "fear", "illusions"],
+      "text": "This is not the best moment for confident conclusions. You do not see the full picture, and your brain is already happily drawing horror scenes."
+    },
+    "de": {
+      "name": "Der Mond",
+      "keywords": ["Unklarheit", "Angst", "Illusionen"],
+      "text": "Das ist kein guter Moment für sichere Schlussfolgerungen. Du siehst nicht das ganze Bild, und dein Gehirn malt schon begeistert Horrorszenen dazu."
+    }
+  }
+},
+{
+  "id": "major_19",
+  "arcana": "major",
+  "number": 19,
+  "image": "/static/cards/Major_19_Sun.jpg",
+  "translations": {
+    "ru": {
+      "name": "Солнце",
+      "keywords": ["ясность", "радость", "успех"],
+      "text": "Тут всё проще, чем кажется. Иногда не нужен сложный мистический анализ — просто хорошая энергия, ясность и нормальный живой результат."
+    },
+    "en": {
+      "name": "The Sun",
+      "keywords": ["clarity", "joy", "success"],
+      "text": "This is simpler than it looks. Sometimes you do not need a deep mystical analysis — just good energy, clarity, and a real result."
+    },
+    "de": {
+      "name": "Die Sonne",
+      "keywords": ["Klarheit", "Freude", "Erfolg"],
+      "text": "Hier ist alles einfacher, als es wirkt. Manchmal brauchst du keine tiefe mystische Analyse, sondern einfach gute Energie, Klarheit und ein echtes Ergebnis."
+    }
+  }
+},
+{
+  "id": "major_20",
+  "arcana": "major",
+  "number": 20,
+  "image": "/static/cards/Major_20_Judgement.jpg",
+  "translations": {
+    "ru": {
+      "name": "Суд",
+      "keywords": ["пробуждение", "итог", "переоценка"],
+      "text": "Пора проснуться и честно посмотреть, где ты уже вырос, а где продолжаешь повторять один и тот же старый цирк."
+    },
+    "en": {
+      "name": "Judgement",
+      "keywords": ["awakening", "result", "reassessment"],
+      "text": "Time to wake up and honestly look at where you have grown and where you are still repeating the same old circus."
+    },
+    "de": {
+      "name": "Das Gericht",
+      "keywords": ["Erwachen", "Ergebnis", "Neubewertung"],
+      "text": "Es ist Zeit aufzuwachen und ehrlich zu sehen, wo du gewachsen bist und wo du immer noch denselben alten Zirkus wiederholst."
+    }
+  }
+},
+{
+  "id": "major_21",
+  "arcana": "major",
+  "number": 21,
+  "image": "/static/cards/Major_21_World.jpg",
+  "translations": {
+    "ru": {
+      "name": "Мир",
+      "keywords": ["завершение", "целостность", "выход на новый уровень"],
+      "text": "Что-то действительно можно считать завершённым. Не идеально, не в золотой рамке, но достаточно хорошо, чтобы закрыть цикл и идти дальше."
+    },
+    "en": {
+      "name": "The World",
+      "keywords": ["completion", "wholeness", "next level"],
+      "text": "Something can truly be considered complete. Not perfect, not framed in gold, but good enough to close the cycle and move on."
+    },
+    "de": {
+      "name": "Die Welt",
+      "keywords": ["Vollendung", "Ganzheit", "nächste Ebene"],
+      "text": "Etwas kann wirklich als abgeschlossen gelten. Nicht perfekt und nicht in Gold gerahmt, aber gut genug, um den Zyklus zu beenden und weiterzugehen."
+    }
+  }
+},
+{
+  "id": "cups_01",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 1,
+  "image": "/static/cards/Cups01.jpg",
+  "translations": {
+    "ru": {
+      "name": "Туз Кубков",
+      "keywords": ["эмоции", "новое чувство", "открытие"],
+      "text": "Начало эмоционального потока. Иногда это любовь, иногда вдохновение, иногда просто ощущение что жизнь снова начала течь."
+    },
+    "en": {
+      "name": "Ace of Cups",
+      "keywords": ["emotion", "new feeling", "opening"],
+      "text": "The beginning of an emotional flow. Sometimes love, sometimes inspiration, sometimes just the feeling that life started moving again."
+    },
+    "de": {
+      "name": "Ass der Kelche",
+      "keywords": ["Emotion", "neues Gefühl", "Öffnung"],
+      "text": "Der Beginn eines emotionalen Flusses. Manchmal Liebe, manchmal Inspiration, manchmal einfach das Gefühl dass das Leben wieder fließt."
+    }
+  }
+},
+{
+  "id": "cups_02",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 2,
+  "image": "/static/cards/Cups02.jpg",
+  "translations": {
+    "ru": {
+      "name": "Двойка Кубков",
+      "keywords": ["партнерство", "связь", "взаимность"],
+      "text": "Тут всё про взаимность. Не обязательно романтика — иногда это просто редкий момент когда вас действительно понимают."
+    },
+    "en": {
+      "name": "Two of Cups",
+      "keywords": ["partnership", "connection", "mutuality"],
+      "text": "This is about mutual connection. Not always romance — sometimes just that rare moment when someone truly understands you."
+    },
+    "de": {
+      "name": "Zwei der Kelche",
+      "keywords": ["Partnerschaft", "Verbindung", "Gegenseitigkeit"],
+      "text": "Hier geht es um gegenseitige Verbindung. Nicht immer romantisch — manchmal einfach ein seltener Moment echten Verständnisses."
+    }
+  }
+},
+    {
+  "id": "cups_03",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 3,
+  "image": "/static/cards/Cups03.jpg",
+  "translations": {
+    "ru": {
+      "name": "Тройка Кубков",
+      "keywords": ["друзья", "радость", "праздник"],
+      "text": "Иногда жизнь не требует героизма. Иногда достаточно нормальной компании, смеха и пары хороших разговоров."
+    },
+    "en": {
+      "name": "Three of Cups",
+      "keywords": ["friends", "joy", "celebration"],
+      "text": "Life does not always require heroism. Sometimes good company, laughter and a few honest conversations are enough."
+    },
+    "de": {
+      "name": "Drei der Kelche",
+      "keywords": ["Freunde", "Freude", "Feier"],
+      "text": "Das Leben verlangt nicht immer Heldentaten. Manchmal reichen gute Gesellschaft, Lachen und ein paar ehrliche Gespräche."
+    }
+  }
+},
+
+  {
+    "id": "cups_04",
+    "arcana": "minor",
+    "suit": "cups",
+    "number": 4,
+    "image": "/static/cards/Cups04.jpg",
+    "translations": {
+      "ru": {
+        "name": "Четвёрка Кубков",
+        "keywords": ["апатия", "сомнение", "упущенный шанс"],
+        "text": "Ты можешь сидеть с видом 'мне ничего не надо', пока нормальная возможность машет тебе прямо перед лицом."
+      },
+      "en": {
+        "name": "Four of Cups",
+        "keywords": ["apathy", "doubt", "missed chance"],
+        "text": "You can sit there like 'I need nothing' while a perfectly decent opportunity is waving right in front of your face."
+      },
+      "de": {
+        "name": "Vier der Kelche",
+        "keywords": ["Apathie", "Zweifel", "verpasste Chance"],
+        "text": "Du kannst mit der Haltung 'ich brauche nichts' dasitzen, während dir eine gute Gelegenheit direkt vor der Nase herumwedelt."
+      }
+    }
+  },
+
+  {
+  "id": "cups_05",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 5,
+  "image": "/static/cards/Cups05.jpg",
+  "translations": {
+    "ru": {
+      "name": "Пятёрка Кубков",
+      "keywords": ["потеря", "сожаление", "разочарование"],
+      "text": "Что-то пошло не так. Но проблема в том что мы часто смотрим только на разбитое и не видим что осталось целым."
+    },
+    "en": {
+      "name": "Five of Cups",
+      "keywords": ["loss", "regret", "disappointment"],
+      "text": "Something went wrong. The trap is focusing only on what spilled while ignoring what is still standing."
+    },
+    "de": {
+      "name": "Fünf der Kelche",
+      "keywords": ["Verlust", "Reue", "Enttäuschung"],
+      "text": "Etwas lief schief. Die Falle ist nur auf das Verschüttete zu schauen und zu vergessen was noch ganz ist."
+    }
+  }
+},
+{
+  "id": "cups_06",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 6,
+  "image": "/static/cards/Cups06.jpg",
+  "translations": {
+    "ru": {
+      "name": "Шестёрка Кубков",
+      "keywords": ["прошлое", "воспоминания", "простота"],
+      "text": "Иногда полезно вспомнить как всё начиналось. Не чтобы жить прошлым, а чтобы вернуть ощущение простоты."
+    },
+    "en": {
+      "name": "Six of Cups",
+      "keywords": ["past", "memory", "simplicity"],
+      "text": "Sometimes remembering where things started helps. Not to live in the past, but to reconnect with simplicity."
+    },
+    "de": {
+      "name": "Sechs der Kelche",
+      "keywords": ["Vergangenheit", "Erinnerung", "Einfachheit"],
+      "text": "Manchmal hilft es sich zu erinnern wie alles begann. Nicht um im Gestern zu leben, sondern um die Einfachheit wiederzufinden."
+    }
+  }
+},
+{
+  "id": "cups_07",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 7,
+  "image": "/static/cards/Cups07.jpg",
+  "translations": {
+    "ru": {
+      "name": "Семёрка Кубков",
+      "keywords": ["иллюзии", "выбор", "фантазии"],
+      "text": "Слишком много вариантов. Иногда проблема не в отсутствии возможностей, а в том что мозг начинает тонуть в фантазиях."
+    },
+    "en": {
+      "name": "Seven of Cups",
+      "keywords": ["illusion", "choice", "fantasy"],
+      "text": "Too many options. Sometimes the problem is not lack of opportunity but drowning in imagination."
+    },
+    "de": {
+      "name": "Sieben der Kelche",
+      "keywords": ["Illusion", "Wahl", "Fantasie"],
+      "text": "Zu viele Optionen. Manchmal liegt das Problem nicht im Mangel an Möglichkeiten sondern im Übermaß an Fantasie."
+    }
+  }
+},
+{
+  "id": "cups_08",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 8,
+  "image": "/static/cards/Cups08.jpg",
+  "translations": {
+    "ru": {
+      "name": "Восьмёрка Кубков",
+      "keywords": ["уход", "поиск", "отпустить"],
+      "text": "Иногда нужно просто уйти. Не потому что всё плохо, а потому что дальше там уже ничего не растёт."
+    },
+    "en": {
+      "name": "Eight of Cups",
+      "keywords": ["leaving", "search", "letting go"],
+      "text": "Sometimes you just walk away. Not because everything is terrible, but because nothing grows there anymore."
+    },
+    "de": {
+      "name": "Acht der Kelche",
+      "keywords": ["Loslassen", "Suche", "Weggehen"],
+      "text": "Manchmal muss man einfach gehen. Nicht weil alles schlecht ist, sondern weil dort nichts mehr wächst."
+    }
+  }
+},
+{
+  "id": "cups_09",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 9,
+  "image": "/static/cards/Cups09.jpg",
+  "translations": {
+    "ru": {
+      "name": "Девятка Кубков",
+      "keywords": ["удовлетворение", "желание", "достаток"],
+      "text": "Желание исполняется. Но есть тонкий момент — иногда оказывается что мечта была проще чем ожидалось."
+    },
+    "en": {
+      "name": "Nine of Cups",
+      "keywords": ["satisfaction", "wish", "comfort"],
+      "text": "A wish fulfilled. Though sometimes the funny part is discovering the dream was simpler than imagined."
+    },
+    "de": {
+      "name": "Neun der Kelche",
+      "keywords": ["Zufriedenheit", "Wunsch", "Genuss"],
+      "text": "Ein Wunsch erfüllt sich. Manchmal merkt man dabei dass der Traum einfacher war als gedacht."
+    }
+  }
+},
+{
+  "id": "cups_10",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 10,
+  "image": "/static/cards/Cups10.jpg",
+  "translations": {
+    "ru": {
+      "name": "Десятка Кубков",
+      "keywords": ["гармония", "семья", "радость"],
+      "text": "Редкий момент эмоциональной полноты. Когда всё не идеально, но ощущается удивительно правильно."
+    },
+    "en": {
+      "name": "Ten of Cups",
+      "keywords": ["harmony", "family", "joy"],
+      "text": "A rare moment of emotional completeness. Not perfect, but somehow deeply right."
+    },
+    "de": {
+      "name": "Zehn der Kelche",
+      "keywords": ["Harmonie", "Familie", "Freude"],
+      "text": "Ein seltener Moment emotionaler Fülle. Nicht perfekt, aber erstaunlich stimmig."
+    }
+  }
+},
+{
+  "id": "cups_11",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 11,
+  "image": "/static/cards/Cups11.jpg",
+  "translations": {
+    "ru": {
+      "name": "Паж Кубков",
+      "keywords": ["чувствительность", "идея", "новость"],
+      "text": "Лёгкий эмоциональный импульс. Иногда это сообщение, иногда вдохновение, иногда странная идея."
+    },
+    "en": {
+      "name": "Page of Cups",
+      "keywords": ["sensitivity", "idea", "message"],
+      "text": "A gentle emotional impulse. Sometimes a message, sometimes inspiration, sometimes a strange idea."
+    },
+    "de": {
+      "name": "Bube der Kelche",
+      "keywords": ["Sensibilität", "Idee", "Nachricht"],
+      "text": "Ein sanfter emotionaler Impuls. Manchmal eine Nachricht, manchmal Inspiration, manchmal eine seltsame Idee."
+    }
+  }
+},
+{
+  "id": "cups_12",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 12,
+  "image": "/static/cards/Cups12.jpg",
+  "translations": {
+    "ru": {
+      "name": "Рыцарь Кубков",
+      "keywords": ["романтика", "идеализм", "движение"],
+      "text": "Следование за эмоцией. Это красиво, пока не забываешь что кроме чувств существует ещё и реальность."
+    },
+    "en": {
+      "name": "Knight of Cups",
+      "keywords": ["romance", "idealism", "pursuit"],
+      "text": "Following emotion and vision. Beautiful energy — as long as reality is not completely ignored."
+    },
+    "de": {
+      "name": "Ritter der Kelche",
+      "keywords": ["Romantik", "Idealismus", "Bewegung"],
+      "text": "Der Emotion folgen. Eine schöne Energie solange die Realität nicht völlig vergessen wird."
+    }
+  }
+},
+{
+  "id": "cups_13",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 13,
+  "image": "/static/cards/Cups13.jpg",
+  "translations": {
+    "ru": {
+      "name": "Королева Кубков",
+      "keywords": ["эмпатия", "чуткость", "глубина"],
+      "text": "Глубокое понимание эмоций. Но важно не раствориться полностью в чужих переживаниях."
+    },
+    "en": {
+      "name": "Queen of Cups",
+      "keywords": ["empathy", "intuition", "depth"],
+      "text": "Deep emotional intelligence. Just remember not to drown in other people's feelings."
+    },
+    "de": {
+      "name": "Königin der Kelche",
+      "keywords": ["Empathie", "Intuition", "Tiefe"],
+      "text": "Tiefe emotionale Intelligenz. Wichtig ist nur nicht komplett in fremden Gefühlen unterzugehen."
+    }
+  }
+},
+{
+  "id": "cups_14",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 14,
+  "image": "/static/cards/Cups14.jpg",
+  "translations": {
+    "ru": {
+      "name": "Король Кубков",
+      "keywords": ["зрелость", "контроль эмоций", "мудрость"],
+      "text": "Эмоции под контролем. Не подавлены — а поняты и направлены."
+    },
+    "en": {
+      "name": "King of Cups",
+      "keywords": ["maturity", "emotional control", "wisdom"],
+      "text": "Emotions under control. Not suppressed — understood and guided."
+    },
+    "de": {
+      "name": "König der Kelche",
+      "keywords": ["Reife", "emotionale Kontrolle", "Weisheit"],
+      "text": "Emotionen unter Kontrolle. Nicht unterdrückt — sondern verstanden und gelenkt."
+    }
+  }
+},
+{
+  "id": "swords_01",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 1,
+  "image": "/static/cards/Swords01.jpg",
+  "translations": {
+    "ru": {
+      "name": "Туз Мечей",
+      "keywords": ["идея", "ясность", "правда"],
+      "text": "Момент ясности. Иногда это новая идея, иногда неприятная правда, которую уже нельзя игнорировать."
+    },
+    "en": {
+      "name": "Ace of Swords",
+      "keywords": ["idea", "clarity", "truth"],
+      "text": "A moment of clarity. Sometimes a new idea, sometimes an uncomfortable truth that can no longer be ignored."
+    },
+    "de": {
+      "name": "Ass der Schwerter",
+      "keywords": ["Idee", "Klarheit", "Wahrheit"],
+      "text": "Ein Moment der Klarheit. Manchmal eine neue Idee, manchmal eine unangenehme Wahrheit."
+    }
+  }
+},
+{
+  "id": "swords_02",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 2,
+  "image": "/static/cards/Swords02.jpg",
+  "translations": {
+    "ru": {
+      "name": "Двойка Мечей",
+      "keywords": ["выбор", "нерешительность", "баланс"],
+      "text": "Классическая ситуация 'не хочу решать'. Но реальность обычно всё равно заставляет выбрать."
+    },
+    "en": {
+      "name": "Two of Swords",
+      "keywords": ["choice", "indecision", "balance"],
+      "text": "The classic 'I don’t want to decide'. Reality usually decides anyway."
+    },
+    "de": {
+      "name": "Zwei der Schwerter",
+      "keywords": ["Wahl", "Unentschlossenheit", "Balance"],
+      "text": "Der klassische Moment 'ich will mich nicht entscheiden'. Das Leben entscheidet oft trotzdem."
+    }
+  }
+},
+{
+  "id": "swords_03",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 3,
+  "image": "/static/cards/Swords03.jpg",
+  "translations": {
+    "ru": {
+      "name": "Тройка Мечей",
+      "keywords": ["боль", "разрыв", "правда"],
+      "text": "Неприятная эмоция. Но часто это боль от правды, а не от самой ситуации."
+    },
+    "en": {
+      "name": "Three of Swords",
+      "keywords": ["pain", "break", "truth"],
+      "text": "An emotional hit. Often it is not the situation itself but the truth behind it that hurts."
+    },
+    "de": {
+      "name": "Drei der Schwerter",
+      "keywords": ["Schmerz", "Trennung", "Wahrheit"],
+      "text": "Ein schmerzhafter Moment. Oft ist es nicht die Situation sondern die Wahrheit dahinter."
+    }
+  }
+},
+{
+  "id": "swords_04",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 4,
+  "image": "/static/cards/Swords04.jpg",
+  "translations": {
+    "ru": {
+      "name": "Четвёрка Мечей",
+      "keywords": ["пауза", "восстановление", "отдых"],
+      "text": "Иногда лучший шаг — остановиться. Мир не рухнет, если ты немного восстановишь силы."
+    },
+    "en": {
+      "name": "Four of Swords",
+      "keywords": ["rest", "pause", "recovery"],
+      "text": "Sometimes the best move is to stop and recover before continuing."
+    },
+    "de": {
+      "name": "Vier der Schwerter",
+      "keywords": ["Pause", "Erholung", "Ruhe"],
+      "text": "Manchmal ist der beste Schritt eine Pause um Kraft zu sammeln."
+    }
+  }
+},
+{
+  "id": "swords_05",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 5,
+  "image": "/static/cards/Swords05.jpg",
+  "translations": {
+    "ru": {
+      "name": "Пятёрка Мечей",
+      "keywords": ["конфликт", "эго", "победа любой ценой"],
+      "text": "Можно выиграть спор и всё равно остаться в проигрыше. Иногда цена победы слишком высокая."
+    },
+    "en": {
+      "name": "Five of Swords",
+      "keywords": ["conflict", "ego", "victory"],
+      "text": "You can win the argument and still lose the situation."
+    },
+    "de": {
+      "name": "Fünf der Schwerter",
+      "keywords": ["Konflikt", "Ego", "Sieg"],
+      "text": "Man kann den Streit gewinnen und trotzdem verlieren."
+    }
+  }
+},
+{
+  "id": "swords_06",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 6,
+  "image": "/static/cards/Swords06.jpg",
+  "translations": {
+    "ru": {
+      "name": "Шестёрка Мечей",
+      "keywords": ["переход", "движение", "выход"],
+      "text": "Переход из сложной ситуации. Не мгновенно, но постепенно становится легче."
+    },
+    "en": {
+      "name": "Six of Swords",
+      "keywords": ["transition", "movement", "escape"],
+      "text": "Moving away from difficulty. Not instantly better, but the direction меняется."
+    },
+    "de": {
+      "name": "Sechs der Schwerter",
+      "keywords": ["Übergang", "Bewegung", "Ausweg"],
+      "text": "Ein langsamer Übergang aus einer schwierigen Phase."
+    }
+  }
+},
+{
+  "id": "swords_07",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 7,
+  "image": "/static/cards/Swords07.jpg",
+  "translations": {
+    "ru": {
+      "name": "Семёрка Мечей",
+      "keywords": ["хитрость", "стратегия", "обход"],
+      "text": "Не всегда прямая атака лучший вариант. Иногда приходится играть умнее."
+    },
+    "en": {
+      "name": "Seven of Swords",
+      "keywords": ["strategy", "trick", "stealth"],
+      "text": "Not every situation is solved head-on. Sometimes strategy beats force."
+    },
+    "de": {
+      "name": "Sieben der Schwerter",
+      "keywords": ["Strategie", "List", "Taktik"],
+      "text": "Nicht jede Situation wird frontal gelöst. Manchmal gewinnt die Strategie."
+    }
+  }
+},
+{
+  "id": "swords_08",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 8,
+  "image": "/static/cards/Swords08.jpg",
+  "translations": {
+    "ru": {
+      "name": "Восьмёрка Мечей",
+      "keywords": ["ограничение", "страх", "иллюзия"],
+      "text": "Кажется что выхода нет. Но часто это ограничения которые мы сами себе построили."
+    },
+    "en": {
+      "name": "Eight of Swords",
+      "keywords": ["restriction", "fear", "illusion"],
+      "text": "It feels like a trap. Often the cage exists mostly in the mind."
+    },
+    "de": {
+      "name": "Acht der Schwerter",
+      "keywords": ["Einschränkung", "Angst", "Illusion"],
+      "text": "Es wirkt wie ein Gefängnis, doch oft ist es nur im Kopf."
+    }
+  }
+},
+{
+  "id": "swords_09",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 9,
+  "image": "/static/cards/Swords09.jpg",
+  "translations": {
+    "ru": {
+      "name": "Девятка Мечей",
+      "keywords": ["тревога", "переживания", "ночные мысли"],
+      "text": "Мозг любит драму ночью. Днём половина этих страхов обычно выглядит гораздо менее страшной."
+    },
+    "en": {
+      "name": "Nine of Swords",
+      "keywords": ["anxiety", "worry", "overthinking"],
+      "text": "Night thoughts tend to exaggerate everything."
+    },
+    "de": {
+      "name": "Neun der Schwerter",
+      "keywords": ["Angst", "Sorgen", "Gedanken"],
+      "text": "Nachts wirken Sorgen oft größer als sie sind."
+    }
+  }
+},
+{
+  "id": "swords_10",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 10,
+  "image": "/static/cards/Swords10.jpg",
+  "translations": {
+    "ru": {
+      "name": "Десятка Мечей",
+      "keywords": ["конец", "крах", "завершение"],
+      "text": "Ситуация достигла дна. Но хорошая новость — дальше обычно начинается восстановление."
+    },
+    "en": {
+      "name": "Ten of Swords",
+      "keywords": ["ending", "collapse", "finale"],
+      "text": "Rock bottom moment. From here things usually start rebuilding."
+    },
+    "de": {
+      "name": "Zehn der Schwerter",
+      "keywords": ["Ende", "Zusammenbruch", "Abschluss"],
+      "text": "Ein Tiefpunkt, der gleichzeitig ein neuer Anfang sein kann."
+    }
+  }
+},
+{
+  "id": "swords_11",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 11,
+  "image": "/static/cards/Swords11.jpg",
+  "translations": {
+    "ru": {
+      "name": "Паж Мечей",
+      "keywords": ["любопытство", "идея", "наблюдение"],
+      "text": "Интерес к новым идеям. Иногда это начало интеллектуального приключения."
+    },
+    "en": {
+      "name": "Page of Swords",
+      "keywords": ["curiosity", "idea", "observation"],
+      "text": "Curious mind. The start of exploring ideas."
+    },
+    "de": {
+      "name": "Bube der Schwerter",
+      "keywords": ["Neugier", "Idee", "Beobachtung"],
+      "text": "Ein neugieriger Geist beginnt neue Ideen zu erkunden."
+    }
+  }
+},
+{
+  "id": "swords_12",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 12,
+  "image": "/static/cards/Swords12.jpg",
+  "translations": {
+    "ru": {
+      "name": "Рыцарь Мечей",
+      "keywords": ["скорость", "решительность", "прорыв"],
+      "text": "Быстрое действие. Главное — не забыть подумать прежде чем нестись вперёд."
+    },
+    "en": {
+      "name": "Knight of Swords",
+      "keywords": ["speed", "action", "drive"],
+      "text": "Fast action. Just remember thinking before charging forward."
+    },
+    "de": {
+      "name": "Ritter der Schwerter",
+      "keywords": ["Tempo", "Aktion", "Entschlossenheit"],
+      "text": "Schnelles Handeln — manchmal sogar zu schnell."
+    }
+  }
+},
+{
+  "id": "swords_13",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 13,
+  "image": "/static/cards/Swords13.jpg",
+  "translations": {
+    "ru": {
+      "name": "Королева Мечей",
+      "keywords": ["ясность", "независимость", "логика"],
+      "text": "Чёткое мышление и независимость. Иногда правда звучит холодно, но она всё равно остаётся правдой."
+    },
+    "en": {
+      "name": "Queen of Swords",
+      "keywords": ["clarity", "logic", "independence"],
+      "text": "Clear thinking and independence. Truth can sound cold but it is still truth."
+    },
+    "de": {
+      "name": "Königin der Schwerter",
+      "keywords": ["Klarheit", "Logik", "Unabhängigkeit"],
+      "text": "Klare Gedanken und Unabhängigkeit."
+    }
+  }
+},
+{
+  "id": "swords_14",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 14,
+  "image": "/static/cards/Swords14.jpg",
+  "translations": {
+    "ru": {
+      "name": "Король Мечей",
+      "keywords": ["разум", "власть", "решение"],
+      "text": "Холодная логика и стратегическое мышление. Иногда именно это и нужно."
+    },
+    "en": {
+      "name": "King of Swords",
+      "keywords": ["intellect", "authority", "strategy"],
+      "text": "Strategic thinking and intellectual control."
+    },
+    "de": {
+      "name": "König der Schwerter",
+      "keywords": ["Intellekt", "Autorität", "Strategie"],
+      "text": "Strategisches Denken und klare Entscheidungen."
+    }
+  }
+},
+{
+  "id": "wands_01",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 1,
+  "image": "/static/cards/Wands01.jpg",
+  "translations": {
+    "ru": {
+      "name": "Туз Жезлов",
+      "keywords": ["энергия", "начало", "импульс"],
+      "text": "Искра идеи. Это тот момент когда появляется энергия что-то начать."
+    },
+    "en": {
+      "name": "Ace of Wands",
+      "keywords": ["energy", "start", "impulse"],
+      "text": "A spark of initiative. The moment when energy to start something appears."
+    },
+    "de": {
+      "name": "Ass der Stäbe",
+      "keywords": ["Energie", "Start", "Impuls"],
+      "text": "Der Funke eines neuen Anfangs."
+    }
+  }
+},
+{
+  "id": "wands_02",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 2,
+  "image": "/static/cards/Wands02.jpg",
+  "translations": {
+    "ru": {
+      "name": "Двойка Жезлов",
+      "keywords": ["план", "выбор", "направление"],
+      "text": "Начало стратегии. Есть идея, теперь нужно решить куда её вести."
+    },
+    "en": {
+      "name": "Two of Wands",
+      "keywords": ["planning", "direction", "decision"],
+      "text": "Planning the next step. The idea exists — now the direction matters."
+    },
+    "de": {
+      "name": "Zwei der Stäbe",
+      "keywords": ["Plan", "Richtung", "Entscheidung"],
+      "text": "Der nächste Schritt braucht eine Richtung."
+    }
+  }
+},
+{
+  "id": "wands_03",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 3,
+  "image": "/static/cards/Wands03.jpg",
+  "translations": {
+    "ru": {
+      "name": "Тройка Жезлов",
+      "keywords": ["расширение", "ожидание", "перспектива"],
+      "text": "Ты уже сделал первый шаг. Теперь остаётся ждать результатов и смотреть дальше."
+    },
+    "en": {
+      "name": "Three of Wands",
+      "keywords": ["expansion", "vision", "waiting"],
+      "text": "The first step is done. Now comes the phase of looking further ahead."
+    },
+    "de": {
+      "name": "Drei der Stäbe",
+      "keywords": ["Expansion", "Vision", "Erwartung"],
+      "text": "Der erste Schritt ist gemacht, jetzt zeigt sich der Horizont."
+    }
+  }
+},
+{
+  "id": "wands_04",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 4,
+  "image": "/static/cards/Wands04.jpg",
+  "translations": {
+    "ru": {
+      "name": "Четвёрка Жезлов",
+      "keywords": ["стабильность", "праздник", "основа"],
+      "text": "Момент когда можно остановиться и отметить маленькую победу."
+    },
+    "en": {
+      "name": "Four of Wands",
+      "keywords": ["stability", "celebration", "foundation"],
+      "text": "A moment to pause and enjoy a small victory."
+    },
+    "de": {
+      "name": "Vier der Stäbe",
+      "keywords": ["Stabilität", "Feier", "Basis"],
+      "text": "Ein Moment der Freude und Stabilität."
+    }
+  }
+},
+{
+  "id": "wands_05",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 5,
+  "image": "/static/cards/Wands05.jpg",
+  "translations": {
+    "ru": {
+      "name": "Пятёрка Жезлов",
+      "keywords": ["соревнование", "хаос", "борьба"],
+      "text": "Все что-то доказывают. Но не каждый конфликт имеет смысл."
+    },
+    "en": {
+      "name": "Five of Wands",
+      "keywords": ["competition", "conflict", "chaos"],
+      "text": "Everyone is pushing their own idea. The question is whether the fight matters."
+    },
+    "de": {
+      "name": "Fünf der Stäbe",
+      "keywords": ["Wettbewerb", "Konflikt", "Chaos"],
+      "text": "Viele Meinungen treffen aufeinander."
+    }
+  }
+},
+{
+  "id": "wands_06",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 6,
+  "image": "/static/cards/Wands06.jpg",
+  "translations": {
+    "ru": {
+      "name": "Шестёрка Жезлов",
+      "keywords": ["успех", "признание", "победа"],
+      "text": "Момент когда усилия замечают. Иногда даже аплодируют."
+    },
+    "en": {
+      "name": "Six of Wands",
+      "keywords": ["success", "recognition", "victory"],
+      "text": "Recognition after effort."
+    },
+    "de": {
+      "name": "Sechs der Stäbe",
+      "keywords": ["Erfolg", "Anerkennung", "Sieg"],
+      "text": "Der Moment des Erfolgs."
+    }
+  }
+},
+{
+  "id": "wands_07",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 7,
+  "image": "/static/cards/Wands07.jpg",
+  "translations": {
+    "ru": {
+      "name": "Семёрка Жезлов",
+      "keywords": ["защита", "позиция", "стойкость"],
+      "text": "Ты занял позицию. Теперь придётся её удерживать."
+    },
+    "en": {
+      "name": "Seven of Wands",
+      "keywords": ["defense", "position", "resistance"],
+      "text": "Holding your ground."
+    },
+    "de": {
+      "name": "Sieben der Stäbe",
+      "keywords": ["Verteidigung", "Position", "Stand"],
+      "text": "Die eigene Position verteidigen."
+    }
+  }
+},
+{
+  "id": "wands_08",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 8,
+  "image": "/static/cards/Wands08.jpg",
+  "translations": {
+    "ru": {
+      "name": "Восьмёрка Жезлов",
+      "keywords": ["скорость", "движение", "новости"],
+      "text": "События начинают развиваться быстро."
+    },
+    "en": {
+      "name": "Eight of Wands",
+      "keywords": ["speed", "movement", "news"],
+      "text": "Things begin to move quickly."
+    },
+    "de": {
+      "name": "Acht der Stäbe",
+      "keywords": ["Tempo", "Bewegung", "Nachrichten"],
+      "text": "Alles beschleunigt sich."
+    }
+  }
+},
+
+  {
+    "id": "wands_09",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 9,
+    "image": "/static/cards/Wands09.jpg",
+    "translations": {
+      "ru": {
+        "name": "Девятка Жезлов",
+        "keywords": ["настороженность", "выносливость", "оборона"],
+        "text": "Ты уже подзаебался, но ещё держишься. Не геройствуй без причины, но и не сливайся в метре от финиша."
+      },
+      "en": {
+        "name": "Nine of Wands",
+        "keywords": ["alertness", "endurance", "defense"],
+        "text": "You’re already tired as hell, but still standing. Don’t play hero for no reason, but don’t quit one meter before the finish either."
+      },
+      "de": {
+        "name": "Neun der Stäbe",
+        "keywords": ["Wachsamkeit", "Ausdauer", "Verteidigung"],
+        "text": "Du bist schon ziemlich fertig, hältst aber noch durch. Spiel nicht grundlos den Helden, aber gib auch nicht einen Meter vor dem Ziel auf."
+      }
+    }
+  },
+  {
+  "id": "wands_10",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 10,
+  "image": "/static/cards/Wands10.jpg",
+  "translations": {
+    "ru": {
+      "name": "Десятка Жезлов",
+      "keywords": ["нагрузка", "ответственность", "усталость"],
+      "text": "Слишком много задач на одни плечи."
+    },
+    "en": {
+      "name": "Ten of Wands",
+      "keywords": ["burden", "responsibility", "stress"],
+      "text": "Carrying too much alone."
+    },
+    "de": {
+      "name": "Zehn der Stäbe",
+      "keywords": ["Belastung", "Verantwortung", "Stress"],
+      "text": "Zu viel auf einmal."
+    }
+  }
+},
+{
+  "id": "wands_11",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 11,
+  "image": "/static/cards/Wands11.jpg",
+  "translations": {
+    "ru": {
+      "name": "Паж Жезлов",
+      "keywords": ["идея", "интерес", "начало"],
+      "text": "Любопытство и желание попробовать что-то новое."
+    },
+    "en": {
+      "name": "Page of Wands",
+      "keywords": ["idea", "curiosity", "exploration"],
+      "text": "Curiosity drives new adventures."
+    },
+    "de": {
+      "name": "Bube der Stäbe",
+      "keywords": ["Idee", "Neugier", "Entdeckung"],
+      "text": "Der Beginn einer neuen Idee."
+    }
+  }
+},
+{
+  "id": "wands_12",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 12,
+  "image": "/static/cards/Wands12.jpg",
+  "translations": {
+    "ru": {
+      "name": "Рыцарь Жезлов",
+      "keywords": ["действие", "смелость", "энергия"],
+      "text": "Импульсивное движение вперёд."
+    },
+    "en": {
+      "name": "Knight of Wands",
+      "keywords": ["action", "boldness", "energy"],
+      "text": "Bold action and enthusiasm."
+    },
+    "de": {
+      "name": "Ritter der Stäbe",
+      "keywords": ["Aktion", "Mut", "Energie"],
+      "text": "Mutiges Vorwärtsgehen."
+    }
+  }
+},
+{
+  "id": "wands_13",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 13,
+  "image": "/static/cards/Wands13.jpg",
+  "translations": {
+    "ru": {
+      "name": "Королева Жезлов",
+      "keywords": ["харизма", "уверенность", "вдохновение"],
+      "text": "Сильная энергия личности."
+    },
+    "en": {
+      "name": "Queen of Wands",
+      "keywords": ["confidence", "charisma", "inspiration"],
+      "text": "A confident and inspiring presence."
+    },
+    "de": {
+      "name": "Königin der Stäbe",
+      "keywords": ["Charisma", "Selbstvertrauen", "Inspiration"],
+      "text": "Eine starke und inspirierende Persönlichkeit."
+    }
+  }
+},
+{
+  "id": "wands_14",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 14,
+  "image": "/static/cards/Wands14.jpg",
+  "translations": {
+    "ru": {
+      "name": "Король Жезлов",
+      "keywords": ["лидерство", "видение", "влияние"],
+      "text": "Тот кто ведёт за собой."
+    },
+    "en": {
+      "name": "King of Wands",
+      "keywords": ["leadership", "vision", "influence"],
+      "text": "Leading with vision and authority."
+    },
+    "de": {
+      "name": "König der Stäbe",
+      "keywords": ["Führung", "Vision", "Einfluss"],
+      "text": "Ein natürlicher Anführer."
+    }
+  }
+},
+
+{
+  "id": "pents_01",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 1,
+  "image": "/static/cards/Pents01.jpg",
+  "translations": {
+    "ru": {
+      "name": "Туз Пентаклей",
+      "keywords": ["шанс", "материя", "начало"],
+      "text": "Нормальный земной шанс. Не космическое озарение, а что-то реальное, что можно взять и развить."
+    },
+    "en": {
+      "name": "Ace of Pentacles",
+      "keywords": ["opportunity", "material", "beginning"],
+      "text": "A solid real-world opportunity. Not a cosmic miracle, but something tangible you can build on."
+    },
+    "de": {
+      "name": "Ass der Münzen",
+      "keywords": ["Chance", "Materielles", "Anfang"],
+      "text": "Eine reale greifbare Möglichkeit, aus der etwas wachsen kann."
+    }
+  }
+},
+{
+  "id": "pents_02",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 2,
+  "image": "/static/cards/Pents02.jpg",
+  "translations": {
+    "ru": {
+      "name": "Двойка Пентаклей",
+      "keywords": ["баланс", "жонглирование", "адаптация"],
+      "text": "Приходится крутиться между несколькими задачами. Главное — не делать вид, что хаос и есть стратегия."
+    },
+    "en": {
+      "name": "Two of Pentacles",
+      "keywords": ["balance", "juggling", "adaptation"],
+      "text": "You are juggling more than one thing. The trick is not to pretend chaos is the same as strategy."
+    },
+    "de": {
+      "name": "Zwei der Münzen",
+      "keywords": ["Balance", "Jonglieren", "Anpassung"],
+      "text": "Mehrere Dinge gleichzeitig zu tragen ist okay. Man sollte Chaos nur nicht mit Planung verwechseln."
+    }
+  }
+},
+{
+  "id": "pents_03",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 3,
+  "image": "/static/cards/Pents03.jpg",
+  "translations": {
+    "ru": {
+      "name": "Тройка Пентаклей",
+      "keywords": ["работа", "мастерство", "сотрудничество"],
+      "text": "Хороший результат редко делается в одиночку и с наскока. Тут про навык, труд и нормальное взаимодействие."
+    },
+    "en": {
+      "name": "Three of Pentacles",
+      "keywords": ["work", "skill", "teamwork"],
+      "text": "Good results rarely happen alone and by accident. This is skill, effort and proper cooperation."
+    },
+    "de": {
+      "name": "Drei der Münzen",
+      "keywords": ["Arbeit", "Können", "Zusammenarbeit"],
+      "text": "Ein gutes Ergebnis entsteht durch Können, Arbeit und Zusammenarbeit."
+    }
+  }
+},
+{
+  "id": "pents_04",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 4,
+  "image": "/static/cards/Pents04.jpg",
+  "translations": {
+    "ru": {
+      "name": "Четвёрка Пентаклей",
+      "keywords": ["контроль", "удержание", "страх потери"],
+      "text": "Иногда желание сохранить превращается в зажим. Держать полезно, но не до состояния 'моё и никому'."
+    },
+    "en": {
+      "name": "Four of Pentacles",
+      "keywords": ["control", "holding", "fear of loss"],
+      "text": "Sometimes protecting what you have turns into clenching too hard. Holding is fine, gripping is another story."
+    },
+    "de": {
+      "name": "Vier der Münzen",
+      "keywords": ["Kontrolle", "Festhalten", "Verlustangst"],
+      "text": "Sicherheit ist gut, Verkrampfung weniger. Festhalten kann schnell zu viel werden."
+    }
+  }
+},
+{
+  "id": "pents_05",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 5,
+  "image": "/static/cards/Pents05.jpg",
+  "translations": {
+    "ru": {
+      "name": "Пятёрка Пентаклей",
+      "keywords": ["нехватка", "трудность", "изоляция"],
+      "text": "Период, когда ощущается дефицит. Но даже в такой фазе помощь может быть ближе, чем кажется."
+    },
+    "en": {
+      "name": "Five of Pentacles",
+      "keywords": ["lack", "difficulty", "isolation"],
+      "text": "A phase of shortage or exclusion. Even then, support may be closer than it seems."
+    },
+    "de": {
+      "name": "Fünf der Münzen",
+      "keywords": ["Mangel", "Schwierigkeit", "Isolation"],
+      "text": "Eine Phase des Mangels. Hilfe ist manchmal näher als man denkt."
+    }
+  }
+},
+{
+  "id": "pents_06",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 6,
+  "image": "/static/cards/Pents06.jpg",
+  "translations": {
+    "ru": {
+      "name": "Шестёрка Пентаклей",
+      "keywords": ["обмен", "поддержка", "баланс"],
+      "text": "Тут про давать и получать. Важно, чтобы обмен был нормальным, а не унизительным цирком с перекосом власти."
+    },
+    "en": {
+      "name": "Six of Pentacles",
+      "keywords": ["exchange", "support", "balance"],
+      "text": "This is about giving and receiving. The key is a fair exchange, not a power game dressed up as generosity."
+    },
+    "de": {
+      "name": "Sechs der Münzen",
+      "keywords": ["Austausch", "Unterstützung", "Balance"],
+      "text": "Geben und Nehmen. Entscheidend ist, dass der Austausch fair bleibt."
+    }
+  }
+},
+{
+  "id": "pents_07",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 7,
+  "image": "/static/cards/Pents07.jpg",
+  "translations": {
+    "ru": {
+      "name": "Семёрка Пентаклей",
+      "keywords": ["ожидание", "рост", "оценка"],
+      "text": "Ты уже вложился, но результат ещё дозревает. Не всё ускоряется пинками."
+    },
+    "en": {
+      "name": "Seven of Pentacles",
+      "keywords": ["waiting", "growth", "assessment"],
+      "text": "You have already invested effort, but the result is still ripening. Not everything speeds up when kicked."
+    },
+    "de": {
+      "name": "Sieben der Münzen",
+      "keywords": ["Warten", "Wachstum", "Bewertung"],
+      "text": "Die Arbeit ist getan, das Ergebnis braucht noch Zeit."
+    }
+  }
+},
+{
+  "id": "pents_08",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 8,
+  "image": "/static/cards/Pents08.jpg",
+  "translations": {
+    "ru": {
+      "name": "Восьмёрка Пентаклей",
+      "keywords": ["ремесло", "практика", "дисциплина"],
+      "text": "Рост через повторение. Скучновато, зато именно так обычно и появляется реальный уровень."
+    },
+    "en": {
+      "name": "Eight of Pentacles",
+      "keywords": ["craft", "practice", "discipline"],
+      "text": "Growth through repetition. Not glamorous, but that is usually how actual skill appears."
+    },
+    "de": {
+      "name": "Acht der Münzen",
+      "keywords": ["Handwerk", "Übung", "Disziplin"],
+      "text": "Wachstum durch Wiederholung. Nicht spektakulär, aber wirksam."
+    }
+  }
+},
+{
+  "id": "pents_09",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 9,
+  "image": "/static/cards/Pents09.jpg",
+  "translations": {
+    "ru": {
+      "name": "Девятка Пентаклей",
+      "keywords": ["достаток", "самостоятельность", "комфорт"],
+      "text": "Плод своих усилий. Приятный момент, когда можно не выживать, а просто нормально жить."
+    },
+    "en": {
+      "name": "Nine of Pentacles",
+      "keywords": ["abundance", "independence", "comfort"],
+      "text": "The fruit of your effort. A nice moment when life feels stable instead of survival mode."
+    },
+    "de": {
+      "name": "Neun der Münzen",
+      "keywords": ["Wohlstand", "Unabhängigkeit", "Komfort"],
+      "text": "Die Früchte der eigenen Arbeit. Ein Moment von Stabilität und Genuss."
+    }
+  }
+},
+{
+  "id": "pents_10",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 10,
+  "image": "/static/cards/Pents10.jpg",
+  "translations": {
+    "ru": {
+      "name": "Десятка Пентаклей",
+      "keywords": ["наследие", "стабильность", "долгий результат"],
+      "text": "Не разовая удача, а что-то устойчивое. Дом, система, семья, фундамент — всё, что переживает один день."
+    },
+    "en": {
+      "name": "Ten of Pentacles",
+      "keywords": ["legacy", "stability", "long-term result"],
+      "text": "Not a one-time win, but something lasting. Home, system, family, foundation — things that outlive the moment."
+    },
+    "de": {
+      "name": "Zehn der Münzen",
+      "keywords": ["Vermächtnis", "Stabilität", "langfristiges Ergebnis"],
+      "text": "Nicht nur Erfolg für heute, sondern etwas Dauerhaftes und Tragendes."
+    }
+  }
+},
+{
+  "id": "pents_11",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 11,
+  "image": "/static/cards/Pents11.jpg",
+  "translations": {
+    "ru": {
+      "name": "Паж Пентаклей",
+      "keywords": ["обучение", "практика", "новая возможность"],
+      "text": "Первые шаги в чём-то полезном и земном. Не пафос, а нормальное начало, из которого может вырасти толк."
+    },
+    "en": {
+      "name": "Page of Pentacles",
+      "keywords": ["learning", "practice", "new opportunity"],
+      "text": "The first steps into something practical and useful. Not flashy, but promising."
+    },
+    "de": {
+      "name": "Bube der Münzen",
+      "keywords": ["Lernen", "Praxis", "neue Chance"],
+      "text": "Die ersten Schritte in etwas Nützliches und Reales."
+    }
+  }
+},
+{
+  "id": "pents_12",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 12,
+  "image": "/static/cards/Pents12.jpg",
+  "translations": {
+    "ru": {
+      "name": "Рыцарь Пентаклей",
+      "keywords": ["надёжность", "терпение", "последовательность"],
+      "text": "Не самый быстрый персонаж в мире, зато доходит. Медленно, стабильно, без лишнего цирка."
+    },
+    "en": {
+      "name": "Knight of Pentacles",
+      "keywords": ["reliability", "patience", "consistency"],
+      "text": "Not the fastest figure in the world, but he gets there. Slow, steady, no unnecessary drama."
+    },
+    "de": {
+      "name": "Ritter der Münzen",
+      "keywords": ["Zuverlässigkeit", "Geduld", "Beständigkeit"],
+      "text": "Nicht schnell, aber verlässlich. Langsam und stabil ans Ziel."
+    }
+  }
+},
+{
+  "id": "pents_13",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 13,
+  "image": "/static/cards/Pents13.jpg",
+  "translations": {
+    "ru": {
+      "name": "Королева Пентаклей",
+      "keywords": ["забота", "практичность", "устойчивость"],
+      "text": "Умение устроить жизнь так, чтобы было не только красиво, но и удобно, тепло и по-настоящему надёжно."
+    },
+    "en": {
+      "name": "Queen of Pentacles",
+      "keywords": ["care", "practicality", "stability"],
+      "text": "The ability to make life not only beautiful, but workable, warm and genuinely secure."
+    },
+    "de": {
+      "name": "Königin der Münzen",
+      "keywords": ["Fürsorge", "Praktikabilität", "Stabilität"],
+      "text": "Die Kunst, das Leben zugleich schön, praktisch und verlässlich zu gestalten."
+    }
+  }
+},
+{
+  "id": "pents_14",
+  "arcana": "minor",
+  "suit": "pents",
+  "number": 14,
+  "image": "/static/cards/Pents14.jpg",
+  "translations": {
+    "ru": {
+      "name": "Король Пентаклей",
+      "keywords": ["результат", "надёжность", "владение ресурсом"],
+      "text": "Контроль над материальной стороной жизни. Не показуха, а взрослое умение строить и удерживать устойчивую систему."
+    },
+    "en": {
+      "name": "King of Pentacles",
+      "keywords": ["result", "reliability", "resource mastery"],
+      "text": "Control over the material side of life. Not flashy status, but the grown-up ability to build and maintain a stable system."
+    },
+    "de": {
+      "name": "König der Münzen",
+      "keywords": ["Ergebnis", "Zuverlässigkeit", "Ressourcenkompetenz"],
+      "text": "Die materielle Seite des Lebens im Griff. Nicht Show, sondern echte Stabilität und Verantwortung."
+    }
+  }
+}
+
+]

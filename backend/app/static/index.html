@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="ru">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -8,17 +8,27 @@
 </head>
 <body>
   <main class="container">
-    <h1>Таро (MVP)</h1>
-    <p class="sub">
+    <div class="topbar">
+      <div class="lang-switcher" aria-label="Language switcher">
+        <button class="lang-link" data-lang="en">EN</button>
+        <span class="lang-sep">|</span>
+        <button class="lang-link" data-lang="de">DE</button>
+        <span class="lang-sep">|</span>
+        <button class="lang-link" data-lang="ru">RU</button>
+      </div>
+    </div>
+
+    <h1 id="title">Таро (MVP)</h1>
+    <p id="subtitle" class="sub">
       Это символическая интерпретация для размышлений. Не “предсказание судьбы”.
     </p>
 
     <div class="controls">
-      <label>Сколько карт?</label>
+      <label id="countLabel">Сколько карт?</label>
       <div class="btn-row">
-        <button class="btn" data-n="1">1</button>
-        <button class="btn" data-n="3">3</button>
-        <button class="btn" data-n="5">5</button>
+        <button class="btn count-btn" data-n="1">1</button>
+        <button class="btn count-btn" data-n="3">3</button>
+        <button class="btn count-btn" data-n="5">5</button>
       </div>
 
       <button id="drawBtn" class="btn primary">Тянуть карты</button>
@@ -27,7 +37,7 @@
     <section id="board" class="board"></section>
 
     <footer class="footer">
-      <small>Для портфолио: API + Docker. Юмор — лёгкий, истерик нет.</small>
+      <small id="footerText">Для портфолио: API + Docker. Юмор — лёгкий, истерик нет.</small>
     </footer>
   </main>
 

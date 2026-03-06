@@ -1,62 +1,75 @@
 from pathlib import Path
+import json
 import random
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Query
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
-app = FastAPI(title="Tarot MVP", version="0.1.0")
+app = FastAPI(title="Tarot MVP", version="0.3.0")
 
 BASE_DIR = Path(__file__).resolve().parent
 STATIC_DIR = BASE_DIR / "static"
+CARDS_FILE = BASE_DIR / "cards.json"
 
-# Мини-набор карт (заглушка). Потом заменим на 78 карт из JSON.
-CARDS = [
-    {
-        "id": 0,
-        "name": "Шут",
-        "keywords": ["начало", "риск", "спонтанность"],
-        "text": "Новый старт. Только не путай смелость с 'да похуй, само разрулится'.",
-    },
-    {
-        "id": 1,
-        "name": "Маг",
-        "keywords": ["инициатива", "ресурсы", "влияние"],
-        "text": "Инструменты у тебя есть. Вопрос — ты делаешь или изображаешь деятельность?",
-    },
-    {
-        "id": 16,
-        "name": "Башня",
-        "keywords": ["слом", "кризис", "правда"],
-        "text": "Что-то рухнет. Скорее всего — иллюзии. Неприятно, но полезно.",
-    },
-    {
-        "id": 9,
-        "name": "Отшельник",
-        "keywords": ["пауза", "самоанализ", "дистанция"],
-        "text": "Отойди на шаг и подумай. Да, без драм и срочных решений прямо сейчас.",
-    },
-    {
-        "id": 3,
-        "name": "Императрица",
-        "keywords": ["рост", "забота", "создание"],
-        "text": "Хочешь результата — корми то, что выращиваешь. Отношения/проект/тело — всё одно и то же.",
-    },
-]
-
-# Статика
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
+
+
+def load_cards() -> list:
+    with open(CARDS_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def serialize_card(card: dict, lang: str) -> dict:
+    translations = card["translations"]
+    t = translations.get(lang) or translations["ru"]
+
+    return {
+        "id": card["id"],
+        "arcana": card["arcana"],
+        "suit": card.get("suit"),
+        "number": card["number"],
+        "image": card["image"],
+        "name": t["name"],
+        "keywords": t["keywords"],
+        "text": t["text"],
+    }
+
 
 @app.get("/")
 def index():
     return FileResponse(STATIC_DIR / "index.html")
 
+
 @app.get("/health")
 def health():
-    return {"status": "ok"}
+    cards = load_cards()
+    return {
+        "status": "ok",
+        "version": "0.3.0",
+        "cards_loaded": len(cards)
+    }
+
 
 @app.get("/draw")
-def draw(n: int = 1):
-    n = max(1, min(n, 5))
-    chosen = random.sample(CARDS, k=min(n, len(CARDS)))
-    return {"count": len(chosen), "cards": chosen}
+def draw(
+    n: int = Query(default=1, ge=1, le=5),
+    lang: str = Query(default="en"),
+    ids: str | None = Query(default=None)
+):
+    cards = load_cards()
+
+    if ids:
+        requested_ids = [x.strip() for x in ids.split(",") if x.strip()]
+        card_map = {card["id"]: card for card in cards}
+        chosen = [card_map[card_id] for card_id in requested_ids if card_id in card_map]
+    else:
+        chosen = random.sample(cards, k=min(n, len(cards)))
+
+    result = [serialize_card(card, lang) for card in chosen]
+
+    return {
+        "count": len(result),
+        "lang": lang,
+        "cards": result,
+    }
