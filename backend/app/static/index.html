@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tarot MVP</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Таро (MVP)</h1>
+    <p class="sub">
+      Это символическая интерпретация для размышлений. Не “предсказание судьбы”.
+    </p>
+
+    <div class="controls">
+      <label>Сколько карт?</label>
+      <div class="btn-row">
+        <button class="btn" data-n="1">1</button>
+        <button class="btn" data-n="3">3</button>
+        <button class="btn" data-n="5">5</button>
+      </div>
+
+      <button id="drawBtn" class="btn primary">Тянуть карты</button>
+    </div>
+
+    <section id="board" class="board"></section>
+
+    <footer class="footer">
+      <small>Для портфолио: API + Docker. Юмор — лёгкий, истерик нет.</small>
+    </footer>
+  </main>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
